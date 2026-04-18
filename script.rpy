@@ -26,14 +26,11 @@ image mrs_copper_happy = "images/mrs.copper_happy.png"
 image principal_happy = "images/principal_happy.png"
 image principal_confused = "images/principal_confused.png"
 image leya_shocked = "images/leya_shocked.png"  
-# AUDIO    
-define audio.theme = "audio/background_track.ogg"
-define audio.battle = "audio/action_music.mp3" 
+
 
 
 # SCENE 1: THE ARRIVAL
 label start:
-    play music theme fadein 1.0
     scene bg_hallway with fade
     "8 O'CLOCK"
     "STANDING INFRONT OF THE GATE OF MARDIN HIGH."
@@ -412,5 +409,4 @@ label start:
     "SIE!!!!??"
     "YOU CALLED ME ?"
     "TO BE CONTINUED..."
-    stop music fadeout 1.0
     return
