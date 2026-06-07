@@ -27,6 +27,3 @@ As she digs deeper into the school's secrets, she realizes that not everything �
 
 🚧 Work in progress — more chapters coming soon!
 
-## Author
-
-Made with 💙 by Sweta Bhandari
