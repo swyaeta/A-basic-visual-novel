@@ -1,2 +1,1 @@
-MY HACKATIME COUNTED MY HOURS TO A UNKNOWN PROJECT 
-MAYBE MY SETUP HAD SOME PROBLEM
+This my first visual novel created by ren'py.This the story relvoves around a highschool transfer girl
