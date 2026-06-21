@@ -26,4 +26,5 @@ As she digs deeper into the school's secrets, she realizes that not everything i
 ## Status
 
 🚧 Work in progress — more chapters coming soon!
+Hope u like it and comment ur opinons.
 
