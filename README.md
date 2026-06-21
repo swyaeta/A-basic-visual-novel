@@ -6,7 +6,7 @@ A 2D mystery visual novel built with the Ren'Py engine.
 
 A high school transfer girl arrives at Martin High looking for a fresh start. But between a bully who makes her life difficult and a mysterious friend whose intentions she can't quite figure out, settling in is harder than she expected.
 
-As she digs deeper into the school's secrets, she realizes that not everything — and everyone — is as they seem.
+As she digs deeper into the school's secrets, she realizes that not everything is not like it seems
 
 ## 🎮 Play Now
 
